@@ -1,0 +1,14 @@
+#countryImage {
+    width: 150px;
+    height: 80px;
+}
+
+
+#allCountriesCatalog {
+    margin-top: 70px;
+}
+
+
+#countryInfoDiv  {
+    border: 1px solid black;
+}
